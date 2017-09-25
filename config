@@ -1,0 +1,7 @@
+[query]
+user = username
+date_limit = 2016-01-01
+
+[Facebook.app.credentials]
+app_id = XXXXXXXXXXXXXXX
+app_secret = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
